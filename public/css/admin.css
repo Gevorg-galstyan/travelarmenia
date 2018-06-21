@@ -1,0 +1,11 @@
+.panel.widget svg {
+    font-size: 48px;
+    background: rgba(0,0,0,.3);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+    color: #eee;
+    line-height: 110px;
+}
